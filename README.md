@@ -17,5 +17,6 @@
 
 ### Git Together 
  
-   * This week I learned how to collaborate on the same repository in (GitHub) [https://github.com/ci-wdi-900/git-together]
+   * This week I learned how to collaborate on the same repository in [GitHub] (https://github.com/ci-wdi-900/git-together)
+   
 
