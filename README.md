@@ -18,5 +18,12 @@
 ### Git Together 
  
    * This week I learned how to collaborate on the same repository in [GitHub](https://github.com/ci-wdi-900/git-together)
+      1. First create a new Repo with ReadMe.md initialized. 
+      2. Then add collaborator through the settings by typing in their email or username.
+      3. The other person collaborating will then clone their repository locally. 
+      4. Before either begins to make changes to verify if the other is doing work by doing a Git Pull command to see all changes to the product. 
+      5. Then once one person makes the changes, they will use the command Git add, then commit, then push, to execute the changes to the repository.
+      
+-  
 
 
