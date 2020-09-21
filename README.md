@@ -23,7 +23,5 @@
       3. The other person collaborating will then clone their repository locally. 
       4. Before either begins to make changes to verify if the other is doing work by doing a Git Pull command to see all changes to the product. 
       5. Then once one person makes the changes, they will use the command Git add, then commit, then push, to execute the changes to the repository.
-      
--  
 
 
